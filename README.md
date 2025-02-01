@@ -1,7 +1,3 @@
-Here’s a **README.md** file for your Telegram Daily Planner Bot repository:  
-
----
-
 ### **📌 Telegram Daily Planner Bot**
 A **personal Telegram bot** that helps you **schedule tasks, send reminders, and track progress**. The bot can also send **voice reminders** using **Google Text-to-Speech (gTTS)**.  
 
@@ -161,13 +157,6 @@ echo %DATABASE_URL%  # Windows
 3. **Commit your changes** (`git commit -m "Added feature xyz"`)  
 4. **Push to GitHub** (`git push origin feature-xyz`)  
 5. **Create a Pull Request** 🎉  
-
----
-
-## **📜 License**
-This project is **MIT Licensed**. You’re free to use, modify, and distribute it.
-
----
 
 **🚀 Built with ❤️ by [Your Name](https://github.com/martineghiazaryan)**  
 
